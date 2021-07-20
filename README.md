@@ -7,3 +7,5 @@ Análise e Desenvolvimento de Sistemas na Universidade
  de Programação, incluindo Banco de Dados SQL, linguagens
  como: C#, JavaScript, HTML e CSS, e desenvolvimento em
   .NetCore.
+
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/isabelle-vasconcelos-ricciolini-9b633515b)
