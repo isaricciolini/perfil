@@ -1,5 +1,5 @@
 
-<p align="center" font-size="25">Isabelle Ricciolini</p>
+<p align="center" font-size="40px">Isabelle Ricciolini</p>
 
 ## 🚀 About Me
 
@@ -25,8 +25,7 @@ Estudante de Tecnologia, cursando Tecnólogo em
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
 <div align="center">
-<img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=300,250">
+<img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=400,350">
 </div>
 
 
-  ![Logo](https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=300,250&align=center)
