@@ -2,13 +2,11 @@
  <h1><b>Isabelle Ricciolini</b></h1>
 </div>
 
-<div align="left" float="left">
-<img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=400,350">
-</div>
 
 ## 🚀 About Me
 
 23 anos, apaixonada por línguas, com Espanhol fluente, a nativa Português fluente e Inglês em construção. Comunicativa, proativa e dedicada, buscando sempre o aperfeiçoamento pessoal e profissional.
+
 
 ## 🛠 Skills
 
@@ -18,6 +16,7 @@ Estudante de Tecnologia, cursando Tecnólogo em
  de Programação, incluindo **Banco de Dados SQL**, linguagens
  como: **C#**, **JavaScript**, **HTML** e **CSS**, e desenvolvimento em
   **.NetCore**.
+
 
 
 <a href="https://www.linkedin.com/in/isabelle-vasconcelos-ricciolini/" alt="Linkedin" target="_blank">
