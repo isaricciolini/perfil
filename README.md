@@ -2,8 +2,7 @@
  <b>Isabelle Ricciolini</b>
 </div>
 
-<center># Isabelle Ricciolini</center>
-
+<div font-size="40"># Isabelle Ricciolini</div>
 ## 🚀 About Me
 
 23 anos, apaixonada por línguas, com Espanhol fluente, a nativa Português fluente e Inglês em construção. Comunicativa, proativa e dedicada, buscando sempre o aperfeiçoamento pessoal e profissional.
