@@ -2,7 +2,6 @@
  <h1><b>Isabelle Ricciolini</b></h1>
 </div>
 
-# Isabelle Vasconcelos Ricciolini
 ## 🚀 About Me
 
 23 anos, apaixonada por línguas, com Espanhol fluente, a nativa Português fluente e Inglês em construção. Comunicativa, proativa e dedicada, buscando sempre o aperfeiçoamento pessoal e profissional.
