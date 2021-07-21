@@ -1,5 +1,5 @@
-<div align="center">
-# Isabelle Ricciolini
+<div align="center" font-size="40">
+ <b>Isabelle Ricciolini</b>
 </div>
 <p align="center" font-size="40px">Isabelle Ricciolini</p>
 
