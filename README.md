@@ -1,4 +1,7 @@
+<div style="text-align:center">
 # Isabelle Ricciolini
+</div>
+
 
 ## 🚀 About Me
 
