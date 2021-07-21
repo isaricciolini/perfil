@@ -1,7 +1,10 @@
 <div align="center" size="40">
  <b>Isabelle Ricciolini</b>
 </div>
-<p align="center" font-size="40px">Isabelle Ricciolini</p>
+
+<div align="rigth">
+<img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=400,350">
+</div>
 
 ## 🚀 About Me
 
