@@ -1,4 +1,6 @@
-
+<div align="center">
+# Isabelle Ricciolini
+</div>
 <p align="center" font-size="40px">Isabelle Ricciolini</p>
 
 ## 🚀 About Me
