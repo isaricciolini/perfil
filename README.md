@@ -1,7 +1,7 @@
 <div style="text-align:center">
 # Isabelle Ricciolini
 </div>
-<p style="text-align: center;">Isabelle Ricciolini</p>
+<p align="center">Isabelle Ricciolini</p>
 
 ## 🚀 About Me
 
