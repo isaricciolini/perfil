@@ -1,5 +1,5 @@
-<div align="center" size="40">
- <b>Isabelle Ricciolini</b>
+<div align="center">
+ <h1><b>Isabelle Ricciolini</b></h1>
 </div>
 
 # Isabelle Vasconcelos Ricciolini
