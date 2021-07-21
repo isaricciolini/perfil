@@ -7,7 +7,8 @@
 
 **23 anos**, apaixonada por línguas, com **Espanhol fluente**, a nativa **Português fluente** e Inglês em construção. **Comunicativa**, **proativa** e **dedicada**, buscando sempre o aperfeiçoamento pessoal e profissional.
 
-
+<br>
+<br>
 ## 🛠 Skills
 
 Estudante de Tecnologia, cursando Tecnólogo em 
@@ -17,7 +18,8 @@ Estudante de Tecnologia, cursando Tecnólogo em
  como: **C#**, **JavaScript**, **HTML** e **CSS**, e desenvolvimento em
   **.NetCore**.
 
-
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/isabelle-vasconcelos-ricciolini/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
