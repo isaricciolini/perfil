@@ -23,4 +23,5 @@ Análise e Desenvolvimento de Sistemas na Universidade
   <a href="https://www.facebook.com/isabelle.ricciolini.5/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=680,453"></a>
+
+  ![Logo](https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=300,250)
