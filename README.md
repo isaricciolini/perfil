@@ -7,11 +7,11 @@
 ## 🛠 Skills
 
 Estudante de Tecnologia, cursando Tecnólogo em 
-Análise e Desenvolvimento de Sistemas na Universidade
+**Análise e Desenvolvimento de Sistemas** na Universidade
  Estácio. Preparada com cursos de Algoritmos e Lógica
- de Programação, incluindo Banco de Dados SQL, linguagens
- como: C#, JavaScript, HTML e CSS, e desenvolvimento em
-  .NetCore.
+ de Programação, incluindo **Banco de Dados SQL**, linguagens
+ como: **C#**, **JavaScript**, **HTML** e **CSS**, e desenvolvimento em
+  **.NetCore**.
 
 
 <a href="https://www.linkedin.com/in/isabelle-vasconcelos-ricciolini/" alt="Linkedin" target="_blank">
@@ -23,7 +23,7 @@ Análise e Desenvolvimento de Sistemas na Universidade
   <a href="https://www.facebook.com/isabelle.ricciolini.5/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-<div style="text-align:center">
+<div style="align:center">
 <img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=300,250">
 </div>
 
