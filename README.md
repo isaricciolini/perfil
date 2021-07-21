@@ -2,7 +2,7 @@
  <h1><b>Isabelle Ricciolini</b></h1>
 </div>
 
-<div align="center" float="left">
+<div align="left" float="left">
 <img src="https://exame.com/wp-content/uploads/2020/03/mulheres-na-programac3a7c3a3o.jpeg?quality=70&strip=info&resize=400,350">
 </div>
 
