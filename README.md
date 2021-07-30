@@ -30,6 +30,9 @@ Estudante de Tecnologia, cursando Tecnólogo em
   <a href="https://www.facebook.com/isabelle.ricciolini.5/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
+<a href="http://ricciolini.great-site.net/" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/-Curr%C3%ADculo-blue"/></a>
+
 <br>
 <br>
 
