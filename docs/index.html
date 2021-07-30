@@ -11,22 +11,215 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <title>Meu perfil</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+    <nav class="navbar navbar-light" style="background-color: whitesmoke;">
+        <span class="cabecalho navbar-text mx-5">
+            <b>Isabelle Vasconcelos Ricciolini</b>
+        </span>
+    </nav>
     <div class="container">
         <div class="row">
-            <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="pt_BR"
-                data-type="horizontal" data-theme="light" data-vanity="isabelle-vasconcelos-ricciolini-9b633515b"><a
-                    class="LI-simple-link"
-                    href='https://br.linkedin.com/in/isabelle-vasconcelos-ricciolini-9b633515b?trk=profile-badge'>Isabelle
-                    Vasconcelos Ricciolini</a></div>
+            <div class="col-sm-4 my-3">
+                <div class="sidebar">
+                    <br>
+                    <img class="fotoprincipal img-fluid img-thumbnail" src="IMG_20210510_173603_161.jpg" width="300"
+                        height="300">
+                    <br>
+                    <br>
+                    <h5><b>DADOS PESSOAIS</b></h5>
+                    <p></p>
+                    <table class="table table-hover">
+                        <tbody>
+                            <tr>
+                                <td><img src="calendar-interface-symbol_318-58183.jpg" width="25" height="25">
+                                    <b>Data de Nascimento: </b>21/03/1998
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img src="Rf79a6f875f32def57aa434300d17e933.jpg" width="25" height="25">
+                                    <b>Email: </b>isabellericci-@outlook.com
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img src="resident-portal-1.png" width="25" height="25">
+                                    <b>Residência: </b>Porto Alegre/RS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img src="logo-whatsapp-verde-icone-ios-android-4096.png" width="25" height="25">
+                                    <a href="https://api.whatsapp.com/send?phone=+5551997372305"
+                                        style="text-decoration: none; color: #1A1C1A"><b>WhatsApp</b></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img src="R.png" width="25" height="25">
+                                    <a class="LI-simple-link"
+                                        href="https://br.linkedin.com/in/isabelle-vasconcelos-ricciolini-9b633515b?trk=profile-badge"
+                                        style="text-decoration: none; color: #1A1C1A"><b>Linkedin</b></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br>
+                </div>
+            </div>
+            <div class="col-sm-8 my-4 flutuar">
+                <div class="resumo">
+                    <br>
+                    <h4>Estudante de Tecnologia, cursando Tecnólogo em Análise e Desenvolvimento de Sistemas -
+                        e capacitada com cursos de Algoritmos e Lógica de Programação, incluindo Banco de Dados SQL,
+                        linguagens
+                        como: C#, JavaScript, HTML e CSS, e desenvolvimento em .NetCore.
+                        Apaixonada por línguas, com Espanhol fluente, Inglês em construção e a nativa, Português
+                        fluente.
+                    </h4>
+                    <br>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 my-4">
+                        <div class="border-card card">
+                            <div class=" card-body">
+                                <h5 class="card-title"><b>Cursos Profissionalizantes</b></h5>
+                                <p class="card-text">Tecnologia</p>
+                                <a onclick="abrirCursos()" class="btn btn-dark">Exibir</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 my-4">
+                        <div class="border-card card">
+                            <div class="card-body">
+                                <h5 class="card-title"><b>Escolaridade</b></h5>
+                                <p class="card-text">Graduação</p>
+                                <a onclick="abrirEscolaridade()" class="btn btn-dark">Exibir</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 my-4">
+                        <div class="border-card card">
+                            <div class="card-body">
+                                <h5 class="card-title"><b>Experiências Profissionais</b></h5>
+                                <p class="card-text">Tecnologia</p>
+                                <a onclick="abrirExperiencias()" class="btn btn-dark">Exibir</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 my-4">
+                        <div class="border-card card">
+                            <div class="card-body">
+                                <h5 class="card-title"><b>Idiomas</b></h5>
+                                <p class="card-text">Fluente</p>
+                                <a onclick="abrirIdiomas()" class="btn btn-dark">Exibir</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!--Modal Cursos-->
+    <div class="modal" id="modalCursos" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Cursos Profissionalizantes</h5>
+                </div>
+                <div class="container-fluid grid modal-body">
+                    <div>
+                        <div class="fonte card">
+                            <img src="Certificado +prati Isabelle Vasconcelos Ricciolini (1)1024_1.jpg"
+                                class="card-img-top" alt="Telecon">
+                            <div class="card-body">
+                                <h5 class="card-title"><b>Telecon Sistemas</b></h5>
+                                <p class="card-text">Algoritmos e Desenvolvimento de Softwares - 72 horas</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="fonte card">
+                            <img src="Udemy.jpg" class="card-img-top" alt="Udemy">
+                            <div class="card-body">
+                                <h5 class="card-title"><b>Udemy</b></h5>
+                                <p class="card-text">Algoritmos e Lógica de Programação - 30,5 horas</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Modal Idiomas-->
+    <div class="modal" id="modalIdiomas" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Idiomas</h5>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <img src="bandeira-oficial-da-espanha-tam113x161cm-D_NQ_NP_940701-MLB20370591788_082015-F.jpg"
+                            width="100"><b>Espanhol</b></img>
+                        <br>
+                        <br>
+                        <img src="bandeira-do-brasil.png" width="100"><b>Português(nativo)</b></img>
+                    </ul>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Modal Experiências-->
+    <div class="modal" id="modalExperiencias" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="experiencias modal-header">
+                    <h5 class="modal-title">Experiência Profissional</h5>
+                </div>
+                <div class="experiencias modal-body">
+                    <p><b>Estágio - Desenvolvimento</b></p>
+                    <img src="Telecon.png" width="400"></img>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Modal Escolaridade-->
+    <div class="modal" id="modalEscolaridade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="graduacao modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Graduação</h5>
+                </div>
+                <div class="modal-body">
+                    <p><b>Tecnólogo</p>
+                    <p>Análise e Desenvolvimento de Sistemas</b></p>
+                    <img src="estacio-logo-faculdade-2.jpg" width="100"></img>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="close btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
         </div>
     </div>
 
+    <script src='http://code.jquery.com/jquery-2.1.3.min.js'></script>
+    <script src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
+    <script src="index.js"></script>
 </body>
 
 </html>
